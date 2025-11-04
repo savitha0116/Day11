@@ -1,0 +1,8 @@
+            Benefits of RTM
+RTM ensures every requirement is tested, every test is purposeful, and every defect is traceable.
+1. Ensures Complete Test Coverage :    Confirms that every requirement has at least one test case linked to it.
+                                       Each “Login” requirement has test cases for valid and invalid inputs.
+2. Helps Identify Missing Test Cases:  Easily shows if any requirement doesn’t have a corresponding test case.
+                                       If “Forgot Password” is not linked to any test, testers know coverage is incomplete.
+3. Maintains Requirement Traceability: Creates a link between requirements, test cases, and defects for better tracking.
+                                       If a test fails, you can trace which requirement is impacted.
