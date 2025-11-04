@@ -1,0 +1,20 @@
+Domain Requirements :
+            The functional and non-functional requirements that arise from the particular business 
+domain in which the system will operate.
+
+ Example:
+      E-Commerce Domain (e.g., Amazon)
+
+Domain Requirements:
+           * System must allow users to add/remove products from the cart.
+           * Discounts and tax calculations must follow regional laws.
+           * Orders should support multiple payment methods (UPI, Credit Card, Wallet).
+
+Test Cases Example:
+
+          Test Case ID	    Test Scenario             	                   Expected Result
+
+          TC-001            Verify product added to                        Product appears in cart with 
+                            cart is displayed correctly                    correct price
+
+                         
